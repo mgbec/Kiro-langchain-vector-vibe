@@ -1,5 +1,5 @@
-langchain==0.1.20
-langchain-community==0.0.38
+langchain==0.3.0.dev1
+langchain-community==0.2.9
 langchain-openai==0.1.7
 chromadb==0.4.24
 sentence-transformers==2.7.0
